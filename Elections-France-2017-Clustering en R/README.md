@@ -6,7 +6,7 @@
 ## 🔗 Lien vers la version Python
 > **Note :** Ce projet est l'implémentation **R (Tidyverse)** de l'analyse.
 > Une version alternative utilisant **Python & Power BI** est disponible ici :
-> 👉 **[Voir le projet Python & Power BI](https://github.com/moncif2004/Projet-Elections-R-Analysis)**
+> 👉 **[Voir le projet Python & Power BI](https://github.com/monci2004/Elections-France-2017-Clustering)**
 
 ## 📄 Description
 Ce projet explore les dynamiques électorales de 2017 en utilisant la puissance statistique de **R**.
@@ -32,3 +32,4 @@ L'objectif est de reproduire une segmentation territoriale (Clustering) et de vi
 ## 👤 Auteur
 
 **BOUDALIA MONSEF**
+
