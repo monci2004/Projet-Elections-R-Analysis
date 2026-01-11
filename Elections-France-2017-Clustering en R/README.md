@@ -1,6 +1,6 @@
 # 🗳️ Analyse Électorale France 2017 (Version R)
 
-![Graphique R ggplot2](plots/dendrogramme-CAH-apres-le-nettoyage.png)
+![Graphique R ggplot2](plots/dendrogramme-apres-nettoyage-des-donnes.png)
 *(dendrogramme CAH apres le nettoyage)*
 
 ## 🔗 Lien vers la version Python
@@ -32,4 +32,5 @@ L'objectif est de reproduire une segmentation territoriale (Clustering) et de vi
 ## 👤 Auteur
 
 **BOUDALIA MONSEF**
+
 
